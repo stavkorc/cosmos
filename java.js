@@ -1,3 +1,14 @@
+body{
+	background-image:url(im/download.jpg);
+}
+
+
+
+
+
+
+
+
 const mainMenu = document.querySelector('.mainMenu');
 const closeMenu = document.querySelector('.closeMenu');
 const openMenu = document.querySelector('.openMenu');
