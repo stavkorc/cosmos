@@ -1,3 +1,7 @@
+body{
+	background-image:url(scr="https://dragonballz.co.il/wp-content/uploads/2018/12/bg.jpg");
+}
+
 * {
     box-sizing: border-box;
     margin: 0px;
